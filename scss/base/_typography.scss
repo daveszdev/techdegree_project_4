@@ -30,6 +30,7 @@ a {
 .headline-secondary {
   @include weight-300;
   color: $color-2;
+  padding-left: 20px;
 }
 
 .link {
